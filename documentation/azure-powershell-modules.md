@@ -60,12 +60,14 @@ Dedicated HSM                         | `Az.DedicatedHsm`                       
 Deployment Manager                    | `Az.DeploymentManager`                  | [![DeploymentManager]][DeploymentManagerGallery]
 Windows Virtual Desktop               | `Az.DesktopVirtualization`              | [![DesktopVirtualization]][DesktopVirtualizationGallery]
 Device Provisioning Services          | `Az.DeviceProvisioningServices`         | [![DeviceProvisioningServices]][DeviceProvisioningServicesGallery]
+Device Update                         | `Az.DeviceUpdate`                       | [![DeviceUpdate]][DeviceUpdate]
 Dev Spaces                            | `Az.DevSpaces`                          | [![DevSpaces]][DevSpacesGallery]
 DevTest Labs                          | `Az.DevTestLabs`                        | [![DevTestLabs]][DevTestLabsGallery]
 Digital Twins                         | `Az.DigitalTwins`                       | [![DigitalTwins]][DigitalTwinsGallery]
 Disk Pool                             | `Az.DiskPool`                           | [![DiskPool]][DiskPoolGallery]
 DNS                                   | `Az.Dns`                                | [![Dns]][DnsGallery]
 DnsResolver                           | `Az.DnsResolver`                        | [![DnsResolver]][DnsResolverGallery]
+DynatraceObservability                | `Az.DynatraceObservability`             | [![DynatraceObservability]][DynatraceObservabilityGallery]
 Stack Edge Order                      | `Az.EdgeOrder`                          | [![EdgeOrder]][EdgeOrderGallery]
 Elastic on Azure                      | `Az.Elastic`                            | [![Elastic]][ElasticGallery]
 Event Grid                            | `Az.EventGrid`                          | [![EventGrid]][EventGridGallery]
@@ -207,10 +209,12 @@ Machine Learning Services             | `Az.MachineLearningServices`            
 [DiskPool]:                   https://img.shields.io/powershellgallery/v/Az.DiskPool.svg?style=flat-square&label=Az.DiskPool
 [DesktopVirtualization]:      https://img.shields.io/powershellgallery/v/Az.DesktopVirtualization.svg?style=flat-square&label=Az.DesktopVirtualization
 [DeviceProvisioningServices]: https://img.shields.io/powershellgallery/v/Az.DeviceProvisioningServices.svg?style=flat-square&label=Az.DeviceProvisioningServices
+[DeviceUpdate]:               https://img.shields.io/powershellgallery/v/Az.DeviceUpdate.svg?style=flat-square&label=Az.DeviceUpdate
 [DevSpaces]:                  https://img.shields.io/powershellgallery/v/Az.DevSpaces.svg?style=flat-square&label=Az.DevSpaces
 [DevTestLabs]:                https://img.shields.io/powershellgallery/v/Az.DevTestLabs.svg?style=flat-square&label=Az.DevTestLabs
 [Dns]:                        https://img.shields.io/powershellgallery/v/Az.Dns.svg?style=flat-square&label=Az.Dns
 [DnsResolver]:                https://img.shields.io/powershellgallery/v/Az.DnsResolver.svg?style=flat-square&label=Az.DnsResolver
+[DynatraceObservability]:     https://img.shields.io/powershellgallery/v/Az.DynatraceObservability.svg?style=flat-square&label=Az.DynatraceObservability
 [EdgeOrder]:                  https://img.shields.io/powershellgallery/v/Az.EdgeOrder.svg?style=flat-square&label=Az.EdgeOrder
 [Elastic]:                    https://img.shields.io/powershellgallery/v/Az.Elastic.svg?style=flat-square&label=Az.Elastic
 [EventGrid]:                  https://img.shields.io/powershellgallery/v/Az.EventGrid.svg?style=flat-square&label=Az.EventGrid
@@ -350,10 +354,12 @@ Machine Learning Services             | `Az.MachineLearningServices`            
 [DiskPoolGallery]:                   https://www.powershellgallery.com/packages/Az.DiskPool/
 [DesktopVirtualizationGallery]:      https://www.powershellgallery.com/packages/Az.DesktopVirtualization/
 [DeviceProvisioningServicesGallery]: https://www.powershellgallery.com/packages/Az.DeviceProvisioningServices/
+[DeviceUpdate]:                      https://www.powershellgallery.com/packages/Az.DeviceUpdate/
 [DevSpacesGallery]:                  https://www.powershellgallery.com/packages/Az.DevSpaces/
 [DevTestLabsGallery]:                https://www.powershellgallery.com/packages/Az.DevTestLabs/
 [DnsGallery]:                        https://www.powershellgallery.com/packages/Az.Dns/
 [DnsResolverGallery]:                https://www.powershellgallery.com/packages/Az.DnsResolver/
+[DynatraceObservabilityGallery]:     https://www.powershellgallery.com/packages/Az.DynatraceObservability/
 [EdgeOrderGallery]:                  https://www.powershellgallery.com/packages/Az.EdgeOrder/
 [ElasticGallery]:                    https://www.powershellgallery.com/packages/Az.Elastic/
 [EventGridGallery]:                  https://www.powershellgallery.com/packages/Az.EventGrid/
