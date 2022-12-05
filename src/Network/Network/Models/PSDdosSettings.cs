@@ -17,5 +17,7 @@ namespace Microsoft.Azure.Commands.Network.Models
     public partial class PSDdosSettings
     {
         public string ProtectionMode;
+
+        public PSDdosProtectionPlan ProtectionPlan;
     }
 }
